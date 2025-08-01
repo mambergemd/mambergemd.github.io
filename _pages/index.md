@@ -9,8 +9,9 @@ header:
   #   - label: "<i class='fas fa-download'></i> Install now"
   #     url: "/docs/quick-start-guide/"
 excerpt: >
-  <br /> <br /> <br /> <br /> <br /> <br />
-  <small>Psychoanalysis is hot</small>
+  <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+  <small> Madeline Amberge, MD <br /> Psychiatrist & Psychotherapist </small>
+  <br /> <br /> <br /> <br />
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
@@ -35,4 +36,3 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-Best analyst in town
